@@ -95,6 +95,14 @@ Place this repository on disk, restart Codex, and open the plugin directory. Cod
 
 If you prefer to install through a personal marketplace instead, copy the plugin to your preferred plugin directory and add a marketplace entry that points at the plugin root.
 
+Before publishing or sharing changes, run:
+
+```bash
+npm run validate
+```
+
+This checks the plugin manifest, marketplace metadata, MCP config, skill files, and referenced assets.
+
 ## OAuth And Access
 
 Public PapersFlow tools can be used without account access in some flows, but Codex should authenticate with PapersFlow to unlock the full surface:
