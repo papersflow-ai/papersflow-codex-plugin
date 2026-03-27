@@ -1,7 +1,7 @@
 {
   "name": "papersflow-codex-plugin",
   "version": "1.0.0",
-  "description": "Guided Codex workflows for PapersFlow literature search, citation graphs, and DeepScan via hosted MCP.",
+  "description": "Hosted PapersFlow MCP tools plus guided Codex research agents for search, citation graphs, and DeepScan.",
   "author": {
     "name": "PapersFlow",
     "email": "developer@papersflow.ai",
@@ -25,8 +25,8 @@
   "mcpServers": "./.mcp.json",
   "interface": {
     "displayName": "PapersFlow Research",
-    "shortDescription": "Hosted research workflows for paper discovery, citation verification, graphs, and DeepScan.",
-    "longDescription": "Use PapersFlow's hosted MCP tools through guided Codex workflows for literature search, citation verification, citation graph exploration, and premium DeepScan analysis.",
+    "shortDescription": "Hosted MCP research tools with guided Codex agents for discovery, citation verification, graphs, and DeepScan.",
+    "longDescription": "Install PapersFlow in Codex as a hosted MCP server plus guided research agents for literature search, citation verification, citation graph exploration, evidence synthesis, and premium DeepScan analysis.",
     "developerName": "PapersFlow",
     "category": "Research",
     "capabilities": [
