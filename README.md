@@ -13,6 +13,7 @@ It is designed for:
 - a Codex plugin manifest in `.codex-plugin/plugin.json`
 - a bundled remote MCP configuration in `.mcp.json`
 - a repo-local marketplace entry in `.agents/plugins/marketplace.json`
+- no bundled `.app.json` yet; this first version ships guided skills plus hosted MCP access, not a separate app or connector mapping
 - four skills:
   - `research-briefing`
   - `citation-verifier`
