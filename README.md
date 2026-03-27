@@ -146,6 +146,14 @@ npm run validate
 
 This checks the plugin manifest, marketplace metadata, MCP config, skill files, and referenced assets.
 
+The current install-surface assets intentionally use stronger public product visuals:
+
+- `workspace-overview.png` for the general PapersFlow workspace
+- `citation-workflow.png` for citation suggestion and verification flows
+- `deepscan-report.jpeg` for DeepScan report generation
+- `plugin-icon.png` as the install-surface icon
+- `plugin-icon.svg` as the editable vector source for future refinements
+
 ## OAuth And Access
 
 Public PapersFlow tools can be used without account access in some flows, but Codex should authenticate with PapersFlow to unlock the full surface:

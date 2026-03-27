@@ -42,10 +42,12 @@
       "Run a DeepScan on agentic retrieval benchmarks and summarize the live findings as the report develops."
     ],
     "brandColor": "#10A37F",
-    "composerIcon": "./assets/logo-400x400.png",
+    "composerIcon": "./assets/plugin-icon.png",
     "logo": "./assets/logo-400x400.png",
     "screenshots": [
-      "./assets/dashboard-preview-portrait.png"
+      "./assets/workspace-overview.png",
+      "./assets/citation-workflow.png",
+      "./assets/deepscan-report.jpeg"
     ]
   }
 }
