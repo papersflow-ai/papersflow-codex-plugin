@@ -45,9 +45,10 @@
     "composerIcon": "./assets/plugin-icon.png",
     "logo": "./assets/logo-400x400.png",
     "screenshots": [
-      "./assets/workspace-overview.png",
-      "./assets/citation-workflow.png",
-      "./assets/deepscan-report.jpeg"
+      "./assets/search-papers.png",
+      "./assets/verify-citation.png",
+      "./assets/citation-graph.png",
+      "./assets/deep-research-branded.webp"
     ]
   }
 }
