@@ -1,5 +1,9 @@
 # papersflow-codex-plugin
 
+Website: [papersflow.ai](https://papersflow.ai)
+
+Hosted MCP server: [doxa.papersflow.ai/mcp](https://doxa.papersflow.ai/mcp)
+
 `papersflow-codex-plugin` packages PapersFlow for Codex as an installable plugin. It combines:
 
 - a hosted MCP server for live PapersFlow tools
