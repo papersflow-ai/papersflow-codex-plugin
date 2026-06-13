@@ -19,6 +19,6 @@ jobs:
     steps:
       - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
       - name: Codex plugin scanner
-        uses: hashgraph-online/hol-codex-plugin-scanner-action@b45d6b583afe05819b24edc8e6418c9ad2e1f1d0 # v1
+        uses: hashgraph-online/hol-codex-plugin-scanner-action@725db86b01e27b211e0057a13113862faa8f67d7 # v1
         with:
           plugin_dir: "."
